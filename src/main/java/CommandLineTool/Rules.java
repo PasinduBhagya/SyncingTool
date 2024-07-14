@@ -1,4 +1,4 @@
-package CLI;
+package CommandLineTool;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

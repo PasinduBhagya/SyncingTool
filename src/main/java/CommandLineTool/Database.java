@@ -1,10 +1,10 @@
-package CLI;
+package CommandLineTool;
 
 import java.sql.*;
 
 public class Database {
 
-    protected String host = "jdbc:mysql://192.168.8.104:3306/mydatabase";
+    protected String host = "jdbc:mysql://192.168.8.105:3306/mydatabase";
     protected String username = "myuser";
     protected String password = "Abc@12345";
     protected static Connection connection = null;
